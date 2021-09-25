@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4374f742.chunk.css",
+    "main.js": "/static/js/main.e06e14f2.chunk.js",
+    "main.js.map": "/static/js/main.e06e14f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47fcbfb1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47fcbfb1.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.248114cc.chunk.js": "/static/js/2.248114cc.chunk.js",
+    "static/js/2.248114cc.chunk.js.map": "/static/js/2.248114cc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.4374f742.chunk.css.map": "/static/css/main.4374f742.chunk.css.map",
+    "static/js/2.248114cc.chunk.js.LICENSE.txt": "/static/js/2.248114cc.chunk.js.LICENSE.txt",
+    "static/media/AddPlacement.85376877.png": "/static/media/AddPlacement.85376877.png",
+    "static/media/Institute.da6b29ec.jpg": "/static/media/Institute.da6b29ec.jpg",
+    "static/media/Register.7225bcf1.png": "/static/media/Register.7225bcf1.png",
+    "static/media/about.c9e4b765.png": "/static/media/about.c9e4b765.png",
+    "static/media/ban1.acde22b9.jpg": "/static/media/ban1.acde22b9.jpg",
+    "static/media/ban2.2d6c3c2d.jpg": "/static/media/ban2.2d6c3c2d.jpg",
+    "static/media/ban3.c2d5835b.jpg": "/static/media/ban3.c2d5835b.jpg",
+    "static/media/ban4.642eae60.jpg": "/static/media/ban4.642eae60.jpg",
+    "static/media/ban5.3745efd3.jpg": "/static/media/ban5.3745efd3.jpg",
+    "static/media/bigdata.52d9af41.jpg": "/static/media/bigdata.52d9af41.jpg",
+    "static/media/blue.5b02b42e.png": "/static/media/blue.5b02b42e.png",
+    "static/media/dac.3518a1ff.jpg": "/static/media/dac.3518a1ff.jpg",
+    "static/media/hacking.5344e04f.jpg": "/static/media/hacking.5344e04f.jpg",
+    "static/media/iacsd.8db3d431.jpg": "/static/media/iacsd.8db3d431.jpg",
+    "static/media/institute1.67ff8f54.jpg": "/static/media/institute1.67ff8f54.jpg",
+    "static/media/logo.4cb73c00.png": "/static/media/logo.4cb73c00.png",
+    "static/media/pexels1.cc820128.jpg": "/static/media/pexels1.cc820128.jpg",
+    "static/media/pratishthan1.4bb85436.jpg": "/static/media/pratishthan1.4bb85436.jpg",
+    "static/media/predac.6aff2b19.jpg": "/static/media/predac.6aff2b19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47fcbfb1.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.248114cc.chunk.js",
+    "static/css/main.4374f742.chunk.css",
+    "static/js/main.e06e14f2.chunk.js"
+  ]
+}
